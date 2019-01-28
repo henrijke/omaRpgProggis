@@ -1,0 +1,45 @@
+<main>
+    <!-- character Sheet -->
+    <div id="characterSheet">
+        <!--Kaksiosainen missä vasemmalla hahmon nimi ja oikealla tiedot -->
+
+        <!--Vasen laita missä attribuutit -->
+        <div id="attributes">
+            <h1>Character stats</h1>
+            <div class="attributeBlock">
+                <div class=""></div>
+            </div>
+            <h3></h3>
+            <br>
+            <h4></h4>
+            <ul>
+                {{#each abilityScore}}
+                    <li>
+                        <h3>{{value}}</h3>
+                        <br>
+                        <p>{{modifier}}</p>
+                    </li>
+
+                {{/each}}
+            </ul>
+        </div>
+        <!-- Oikea puoli atm jätä tyhjäksi:-) -->
+        <div>
+
+        </div>
+    </div>
+
+    <!-- Kontrollipöytä -->
+    <div>
+        <form action="/" method="post">
+            <input type="text" name="value" id="value" placeholder="Value" required>
+            <input type="submit" value="lähetä">
+        </form>
+
+        <form action="/newchar" method="post">
+            <input type="submit" value="uus hahmo">
+        </form>
+        <button id="newCharButton">PAINA TÄSTÄ JA TEE UUS KAMU:-)</button>
+    </div>
+
+</main>

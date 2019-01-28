@@ -1,0 +1,90 @@
+body {
+    background-color: #039be5;
+    font-family: Arial, sans-serif;
+    color: black;
+
+}
+#charSheet{
+
+}
+#charHeader{
+
+}
+#charAttributes{
+
+}
+#charMainHolder{
+    display:flex;
+    flex-wrap: nowrap;
+}
+main{
+    background-color:white;
+    width:100%;
+}
+#charHeader{
+    background-color: gainsboro;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    width:100%;
+    height: 10%;
+    flex-basis:100%;
+}
+#charHeader ul{
+    list-style: none;
+}
+#charHeader li{
+    display: inline;
+}
+#charName{
+    width: 30%;
+}
+#charInfo{
+    width: 70%;
+}
+#rightHolder{
+    flex-grow:2;
+}
+
+#attributesAndFriends{
+    display:flex;
+    justify-content: space-around;
+    background-color: antiquewhite;
+    flex-wrap: wrap;
+}
+#charInfo ul{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    list-style: none;
+}
+#charInfo ul li{
+    display: inline;
+    width: 33%;
+}
+#charInfo ul li h4{
+
+}
+#attributesHolder{
+    display: inline;
+    list-style: none;
+}
+#attributesHolder ul{
+    list-style: none;
+}
+.charAttrLeft{
+    text-align: center;
+    width: 30%;
+    background-color: #ECEFF1;
+}
+.charAttrRight{
+    width: 70%;
+    background-color: aquamarine;
+}
+.charAttrContainer{
+    margin-top: 10px;
+    display:flex;
+}
+.singleAttribute{
+
+}
