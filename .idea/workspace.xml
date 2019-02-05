@@ -1,13 +1,49 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="BookmarkManager">
-    <bookmark url="file://$PROJECT_DIR$/public/js/aamukampajs.js" line="6" mnemonic="7" />
-  </component>
   <component name="ChangeListManager">
     <list default="true" id="ed2277ed-fae1-4cf4-9897-b4afbba54ebc" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Assistant/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SocketTest/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../assistantTest/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../assistantTest/google-assistant-master/examples/consoleMicSwitch.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../assistantTest/google-assistant-master/examples/sensorTest.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../assistantTest/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assistant/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Assistant/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assistant/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Assistant/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assistant/node/final/firebase/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../Assistant/final/firebase/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assistant/node/final/firebase/firebase.json" beforeDir="false" afterPath="$PROJECT_DIR$/../Assistant/final/firebase/firebase.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assistant/node/final/firebase/functions/.eslintrc.json" beforeDir="false" afterPath="$PROJECT_DIR$/../Assistant/final/firebase/functions/.eslintrc.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assistant/node/final/firebase/functions/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../Assistant/final/firebase/functions/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assistant/node/final/firebase/functions/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/../Assistant/final/firebase/functions/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assistant/node/final/firebase/functions/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../Assistant/final/firebase/functions/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assistant/node/final/firebase/functions/views/index.hbs" beforeDir="false" afterPath="$PROJECT_DIR$/../Assistant/final/firebase/functions/views/index.hbs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assistant/node/final/firebase/functions/views/index2.hbs" beforeDir="false" afterPath="$PROJECT_DIR$/../Assistant/final/firebase/functions/views/index2.hbs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assistant/node/final/firebase/public/404.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Assistant/final/firebase/public/404.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assistant/node/final/firebase/public/javascript.js" beforeDir="false" afterPath="$PROJECT_DIR$/../Assistant/final/firebase/public/javascript.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assistant/node/final/firebase/public/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/../Assistant/final/firebase/public/styles.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assistant/node/final/rasp/assistantNode.js" beforeDir="false" afterPath="$PROJECT_DIR$/../Assistant/final/rasp/assistantNode.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assistant/node/final/rasp/connect_test.js" beforeDir="false" afterPath="$PROJECT_DIR$/../Assistant/final/rasp/connect_test.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assistant/node/final/rasp/io.js" beforeDir="false" afterPath="$PROJECT_DIR$/../Assistant/final/rasp/io.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assistant/node/final/test/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../Assistant/final/test/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assistant/node/final/test/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/../Assistant/final/test/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assistant/node/final/test/assistantApi.js" beforeDir="false" afterPath="$PROJECT_DIR$/../Assistant/final/test/assistantApi.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assistant/node/final/test/firebase.json" beforeDir="false" afterPath="$PROJECT_DIR$/../Assistant/final/test/firebase.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assistant/node/final/test/functions/.eslintrc.json" beforeDir="false" afterPath="$PROJECT_DIR$/../Assistant/final/test/functions/.eslintrc.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assistant/node/final/test/functions/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../Assistant/final/test/functions/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assistant/node/final/test/functions/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/../Assistant/final/test/functions/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assistant/node/final/test/functions/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../Assistant/final/test/functions/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assistant/node/final/test/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../Assistant/final/test/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assistant/node/final/test/public/css/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/../Assistant/final/test/public/css/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assistant/node/final/test/public/html/index.hbs" beforeDir="false" afterPath="$PROJECT_DIR$/../Assistant/final/test/public/html/index.hbs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assistant/node/final/test/public/html/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Assistant/final/test/public/html/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assistant/node/final/test/public/js/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/../Assistant/final/test/public/js/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assistant/sensorAssistance.js" beforeDir="false" afterPath="$PROJECT_DIR$/../Assistant/sensorAssistance.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Google_Actions_2/codelabs-nodejs" beforeDir="false" afterPath="$PROJECT_DIR$/../Google_Actions_2/codelabs-nodejs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Twitterbot/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../Twitterbot/.gitignore" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -19,14 +55,15 @@
     <session id="512297002">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="8" />
+          <entry key="project.closed" value="11" />
+          <entry key="project.open.time.0" value="1" />
           <entry key="project.open.time.1" value="1" />
           <entry key="project.open.time.10" value="2" />
           <entry key="project.open.time.2" value="3" />
-          <entry key="project.open.time.3" value="2" />
+          <entry key="project.open.time.3" value="3" />
           <entry key="project.open.time.7" value="1" />
           <entry key="project.open.time.9" value="1" />
-          <entry key="project.opened" value="10" />
+          <entry key="project.opened" value="12" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
@@ -49,7 +86,7 @@
       </usages-collector>
       <usages-collector id="statistics.js.language.service.starts">
         <counts>
-          <entry key="ESLintLanguageService" value="10" />
+          <entry key="ESLintLanguageService" value="12" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -105,7 +142,7 @@
         <entry file="file://$PROJECT_DIR$/functions/index.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="2074">
-              <caret line="122" column="41" lean-forward="true" selection-start-line="122" selection-start-column="41" selection-end-line="122" selection-end-column="41" />
+              <caret line="122" column="41" selection-start-line="122" selection-start-column="41" selection-end-line="122" selection-end-column="41" />
             </state>
           </provider>
         </entry>
@@ -166,7 +203,7 @@
     </findStrings>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -217,10 +254,10 @@
     </packageJsonPaths>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="1912" />
+    <option name="x" value="4302" />
     <option name="y" value="1" />
-    <option name="width" value="809" />
-    <option name="height" value="687" />
+    <option name="width" value="1821" />
+    <option name="height" value="1106" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -328,16 +365,19 @@
       <workItem from="1548038206880" duration="5966000" />
       <workItem from="1548228442738" duration="5108000" />
       <workItem from="1548376423909" duration="2265000" />
+      <workItem from="1549027498003" duration="34000" />
+      <workItem from="1549027540748" duration="37000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="211094000" />
+    <option name="totallyTimeSpent" value="211165000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1912" y="1" width="809" height="687" extended-state="0" />
+    <frame x="2868" y="1" width="1214" height="737" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2870494" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.30069324" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -501,6 +541,16 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/../Twitterbot/functions/twitter_config.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/functions/map/tileClass.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="19" lean-forward="true" selection-start-line="5" selection-start-column="19" selection-end-line="5" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/functions/views/style.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="476">
@@ -518,7 +568,7 @@
     <entry file="file://$PROJECT_DIR$/functions/index.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2074">
-          <caret line="122" column="41" lean-forward="true" selection-start-line="122" selection-start-column="41" selection-end-line="122" selection-end-column="41" />
+          <caret line="122" column="41" selection-start-line="122" selection-start-column="41" selection-end-line="122" selection-end-column="41" />
         </state>
       </provider>
     </entry>
@@ -547,16 +597,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret selection-end-line="35" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../Twitterbot/functions/twitter_config.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/functions/map/tileClass.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="19" lean-forward="true" selection-start-line="5" selection-start-column="19" selection-end-line="5" selection-end-column="19" />
         </state>
       </provider>
     </entry>

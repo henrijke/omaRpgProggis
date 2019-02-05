@@ -1,6 +1,6 @@
 'use strict';
 
-//***************************************************** SETUP STEP
+//******** SETUP
 const functions = require('firebase-functions');
 const admin = require('firebase-admin');
 const express = require('express');
@@ -41,14 +41,14 @@ const getData = (referenceId)=>{
     return new Promise((resolve,reject)=>{
         db.collection('characters').get()
             .then((snapshot) =>{
-                let kakka = [];
+                let data = [];
                 snapshot.forEach((doc) =>{
-                    kakka.push({
+                    data.push({
                         value: doc.data().value
                     });
                 });
-            resolve(kakka);
-            return kakka;
+            resolve(data);
+            return data;
         }).catch((err) => {
             reject(err);
         })
@@ -132,25 +132,14 @@ app.get('/testi.json',(request,response)=>{
     }).catch(err => console.log(err));
 });
 
-
-// TOIMIVA
-app.get('/moi',(req,res)=>{
-    console.log('tervetuloa moi puolelle');
-    res.send({
-        "moi":"moi",
-        "heippa": "heippa"
-    });
-});
-
-
-// TOIMIVA. MUTTA MITEN SAAT REQUESTIN PYLLYN ARVON?!?!
+// TEST POST
 app.post('/post',(req,res)=>{
         console.log('tervetuloa posti puolelle');
         console.log(req.body);
-        console.log(req.body.pylly);
+        console.log(req.body.test);
        // console.log(Object.values(req.body));
         res.send({
-            "kakka":"kakka",
+            "data":"data",
             "hieno":"hieno"
         })
 });

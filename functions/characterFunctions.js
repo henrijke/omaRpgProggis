@@ -29,6 +29,8 @@ const possibleColor = [
 
 ];
 
+// näin jälkikäteen tän olis varmaa voinu tehä hiukka fiksummin...
+// TODO refactoraa
 characterFunctions = {
     defaultDnd: () => {
         return dice.sumDices(dice.lookTopX(dice.dice(6, 4), 3, true))
